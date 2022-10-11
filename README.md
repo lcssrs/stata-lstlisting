@@ -18,5 +18,6 @@ Just `\include{}` or `\input{}` the .tex file in this repository and set the lan
 ## Rendered example
 ![rendered example](sample.png)
 
-## See also
-  - https://gist.github.com/kongs-sublime/10862838
+## Contributing
+  
+  Potential contributors are expected mainly to fill the list of built-in stata commands which is still short
