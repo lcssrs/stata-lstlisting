@@ -20,4 +20,9 @@ Just `\include{}` or `\input{}` the .tex file in this repository and set the lan
 
 ## Contributing
   
-  Potential contributors are expected mainly to fill the list of built-in stata commands which is still short
+  Potential contributors are expected mainly to fill the list of built-in stata commands which is still short or improve the characteristics mentioned in the Details section
+
+
+## Details
+
+Coments should be made using // instead of * to avoid misinterpretation with the multiplier operator and when calling a global macro the user should apply the structure ${global}
